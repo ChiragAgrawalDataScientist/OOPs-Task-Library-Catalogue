@@ -1,7 +1,7 @@
 # OOPs-Task-Library-Catalogue
-This repository is created to add Python programs that I practice on.
-The task is as follows
-1.	Write Code for the below class diagram (some functions are not shown in the diagram)
+This repository is created to add Python programs that I practice on. \
+The task is as follows 
+1.	Write Code for the below class diagram (some functions are not shown in the diagram) \
 a.	Create a class Author with only one-member Name - string \
 b.	Create a class Book with given member variables – \
 &nbsp; &nbsp; &nbsp; &nbsp; i.	  ISBN – string \
